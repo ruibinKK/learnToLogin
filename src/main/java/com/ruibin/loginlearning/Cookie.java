@@ -6,4 +6,5 @@ package com.ruibin.loginlearning;
  * @time : 2023-4-10
  */
 public class Cookie {
+    
 }
