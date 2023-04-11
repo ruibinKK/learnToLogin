@@ -1,4 +1,4 @@
-package com.ruibin.loginlearning.cookie;
+package com.ruibin.loginlearning.controller.cookie;
 
 /**
  * @des :测试一下
